@@ -1,7 +1,15 @@
 ### Hi there 👋
 
 # 💫 About Me:
-currently studying cse<br>
+I am an enthusiastic backend developer who excels at
+creating tidy, effective, and scalable code. Skilled in
+TypeScript, JavaScript, C++, and Python. <br>
+I am always
+on the lookout for new languages and technologies to
+push the boundaries of what is possible. Currently, I am
+delving into DevOps to enhance my skill set and grasp
+every aspect of the development journey.
+
 
 
 ## 🌐 Socials:
