@@ -232,9 +232,7 @@ _2024 – Present_
 
 ## Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/TejasMG12/TejasMG12/output/github-contribution-grid-snake.svg" />
-</p>
+![Snake animation](https://raw.githubusercontent.com/TejasMG12/TejasMG12/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
