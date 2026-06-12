@@ -188,26 +188,6 @@ _2024 – Present_
 
 ---
 
-## Certifications
-
-### AWS
-
-![AWS](https://img.shields.io/badge/AWS-Cloud-8A2BE2?style=for-the-badge)
-
-### Oracle
-
-![Oracle](https://img.shields.io/badge/Oracle-SQL-6A5ACD?style=for-the-badge)
-
-### NPTEL
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Courses-4B0082?style=for-the-badge)
-
-### Cisco
-
-![Cisco](https://img.shields.io/badge/Cisco-Networking-483D8B?style=for-the-badge)
-
----
-
 ## Coding Profiles
 
 <p align="center">
