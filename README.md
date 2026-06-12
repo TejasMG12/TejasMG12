@@ -51,6 +51,21 @@ I approach engineering with a **product mindset**, focusing on real-world impact
 
 ---
 
+## Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TejasMG12&theme=tokyo-night" />
+</p>
+
+---
+
+## Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/TejasMG12/TejasMG12/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+
 ## Tech Stack
 
 ### Languages
@@ -196,10 +211,18 @@ _2024 – Present_
 ## Coding Profiles
 
 <p align="center">
-<img src="https://img.shields.io/badge/LeetCode-Profile-8A2BE2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-6A5ACD?style=for-the-badge" />
-<img src="https://img.shields.io/badge/HackerRank-Profile-4B0082?style=for-the-badge" />
-<img src="https://img.shields.io/badge/CodeChef-Profile-483D8B?style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/tejas-gampawar-463129258/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-8A2BE2?style=for-the-badge" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/tejasgampawar12">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-4B0082?style=for-the-badge" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/tejasgam9qet?tab=activity">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-6A5ACD?style=for-the-badge" />
+  </a>
+  <!-- <a href="YOUR_CODECHEF_URL_HERE">
+    <img src="https://img.shields.io/badge/CodeChef-Profile-483D8B?style=for-the-badge" />
+  </a> -->
 </p>
 
 ---
@@ -219,20 +242,6 @@ _2024 – Present_
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=TejasMG12&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
-
----
-
-## Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TejasMG12&theme=tokyo-night" />
-</p>
-
----
-
-## Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/TejasMG12/TejasMG12/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
